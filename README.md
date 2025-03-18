@@ -16,7 +16,7 @@ Quick Start:
 
 bash
 Copy
-git clone https://github.com/yourusername/plant-pathology.git  
+git clone https://github.com/SaKinLord/plant-pathology.git  
 pip install -r requirements.txt  
 python train.py  
 Dataset:
