@@ -80,7 +80,6 @@ your-project-root/
     torch
     torchvision
     scikit-learn
-    # Add specific versions if known, e.g., torch>=1.8
     ```
     Then install using:
     ```bash
